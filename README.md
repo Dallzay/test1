@@ -1,7 +1,5 @@
-# test1
+## HI there
 
-    What the project does
-    Why the project is useful
-    How users can get started with the project
-    Where users can get help with your project
-    Who maintains and contributes to the project
+battery: I'm currently learning in LAB UAS.
+key: I'm looking for a help with my first team work.
+bulb: Ask me about Python.
